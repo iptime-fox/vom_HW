@@ -134,3 +134,5 @@ header{width: 700px; height: 100%; position: fixed; top: 0px;left: -425px; backg
     opacity: 0;
   }
 }
+
+/* animation ani(이름) 1.5s(지속시간), 0.5s(딜레이), linear(부드럽게넘어가게해줌), infinite(무한반복) */
