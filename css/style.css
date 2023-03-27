@@ -35,7 +35,7 @@ header{width: 700px; height: 100%; position: fixed; top: 0px;left: -425px; backg
 
 
 
-/* sub nav */
+/* Sub nav */
 #gnb ul{position: absolute; left: 0px; top:0px; opacity: 0; transition: all 0.4s;}
 #gnb .about ul{left: 200px; top: -10px; opacity: 1; }
 #gnb > .sub2:hover .sub{left: 200px;opacity: 1;}
@@ -90,7 +90,7 @@ header{width: 700px; height: 100%; position: fixed; top: 0px;left: -425px; backg
 
 #slide:hover .info p{transform: translateX(0px);}
 
-/* 화살표 */
+/* 하단 화살표 */
 #slide .btnContents {
   width: 150px;
   height: 50px;
